@@ -2,7 +2,7 @@
 
 ## url: https://codeforces.com/group/PVbQ8eK2T4/contest/344001/problem/A
 
-##A. Стек
+### A. Стек
 
 ограничение по времени на тест1 секунда
 
